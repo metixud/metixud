@@ -6,8 +6,8 @@ In life, I am :
 - and way more...
 #### Languages & Tools:
 
-<a title="C++" href="https://cdn-icons-png.flaticon.com/256/6132/6132222.png"><img height="32" width="32" src="https://cdn-icons-png.flaticon.com/256/6132/6132222.png" style="width:40px" /></a>
-<a title="NodeJS" href="https://nodejs.org/en/learn/getting-started/introduction-to-nodejs"><img height="32" width="32" src="https://cdn.simpleicons.org/node.js" style="width:40px" /></a>
+<a title="C++" href="https://cdn-icons-png.flaticon.com/256/6132/6132222.png"><img height="40" width="40" src="https://cdn-icons-png.flaticon.com/256/6132/6132222.png" style="width:40px" /></a>
+<a title="NodeJS" href="https://nodejs.org/en/learn/getting-started/introduction-to-nodejs"><img height="40" width="40" src="https://cdn.simpleicons.org/node.js" style="width:40px" /></a>
 And more...
 
 ### My GitHub stats:
