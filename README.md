@@ -16,4 +16,3 @@ And more...
 ![Metix's GitHub stars](https://img.shields.io/github/stars/metixud)
 ![Metix's GitHub sponsors](https://img.shields.io/github/sponsors/metixud)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=metixdsc&theme=dark&show_icons=true&hide_border=true&layout=compact)
