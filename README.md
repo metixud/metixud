@@ -10,8 +10,8 @@
     <img src="https://skillicons.dev/icons?i=nodejs,cpp,php,vscode,windows&theme=dark" />
   </a>
   <br/><br/>
-<a href="https://discord.com/users/1416388451477098588" target="_blank">
-    <img src="https://lanyard.cnrad.dev/api/1416388451477098588?bg=0d1117&borderRadius=10px&idleMessage=idkbro&theme=dark&showDisplayName=true" />
+<a href="https://discord.com/users/1487812466091098192" target="_blank">
+    <img src="https://lanyard.cnrad.dev/api/1487812466091098192?bg=0d1117&borderRadius=10px&idleMessage=idkbro&theme=dark&showDisplayName=true" />
   </a>
 <br/><br/>
 <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=BB6BD9&text=Profile%20Views&height=30&fontSize=20" alt="Label" />
